@@ -1,71 +1,81 @@
 {
     "WBUI2": {
         "settings": {
-            "OpenButton": 0,
-            "HideIcon": true,
-            "HideIconAfter": 30,
-            "IconURL": "https://i.imgur.com/WNcMOBa.png",
-            "DisableIconText": true,
-            "IconPosition": 0,
-            "IconTextColor": 0,
-            "OpenOnStart": true,
-            "OpenOnStartOnlyNewPlayers": true,
-            "UpdateInterval": 12
+            "openbutton": 0,
+            "hideicon": true,
+            "hideiconafter": 15,
+            "iconurl": "https://i.imgur.com/WNcMOBa.png",
+            "disableicontext": true,
+            "iconposition": 0,
+            "icontextcolor": 0,
+            "openonstart": true,
+            "openonstartonlynewplayers": true,
+            "updateinterval": 0
         },
         "tabs": [
             {
-                "tab1": {
-                    "layout": 1,
-                    "buttontext": "Welcome",
-                    "title1": "First of all, have a great time!",
-                    "text1": "\nWe are excited to have you join us on this epic journey through a world filled with danger and adventure. In this world, you will need to gather resources, craft items, and build shelters to survive against the various challenges that you will face.\n\nAs you explore the beautiful and diverse environments of Ark, you will encounter a variety of different creatures, both friendly and hostile. You will need to use your skills and wits to tame, train, and ride these creatures, using them to help you in your journey.\n\n\nOur server is home to a thriving community of players who are always eager to help new players. Be sure to join us in our Discord server to stay up to date on all the latest news and events.\n\n\n<TextStyle.Green>What you can expect from our Community</>\n ● always available, up-to-date servers with the highest quality hardware,\n ● the most interesting mods,\n ● balanced settings, although we also have servers with crazy ones sometimes,\n ● support from admin, community helpers and players,\n ● no toxic behavior,\n ● influence on server development thanks to suggestion channels and regular surveys,\n ● and a lot more.\n\n\nThank you for choosing to play on our Ark Survival server. We hope you have a fun and rewarding experience with us!\n<TextStyle.Green>SG</>",
-                    "imageurl": "https://i.imgur.com/S1H6Pgo.png"
-                }
+                "layout": 1,
+                "buttontext": "Welcome",
+                "imageurl": "https://i.imgur.com/S1H6Pgo.png",
+                "content": [
+                    {
+                        "title": "First of all, have a great time!",
+                        "text": "\r\nWe are excited to have you join us on this epic journey through a world filled with danger and adventure. In this world, you will need to gather resources, craft items, and build shelters to survive against the various challenges that you will face.\r\n\r\nAs you explore the beautiful and diverse environments of Ark, you will encounter a variety of different creatures, both friendly and hostile. You will need to use your skills and wits to tame, train, and ride these creatures, using them to help you in your journey.\r\n\r\n\r\nOur server is home to a thriving community of players who are always eager to help new players. Be sure to join us in our Discord server to stay up to date on all the latest news and events.\r\n\r\n\r\n<TextStyle.Green>What you can expect from our Community</>\r\n ● always available, up-to-date servers with the highest quality hardware,\r\n ● the most interesting mods,\r\n ● balanced settings, although we also have servers with crazy ones sometimes,\r\n ● support from admin, community helpers and players,\r\n ● no toxic behavior,\r\n ● influence on server development thanks to suggestion channels and regular surveys,\r\n ● and a lot more.\r\n\r\n\r\nThank you for choosing to play on our Ark Survival server. We hope you have a fun and rewarding experience with us!\r\n<TextStyle.Green>Have Fun</>"
+                    }
+                ]
             },
             {
-                "tab2": {
-                    "layout": 1,
-                    "buttontext": "Important Info",
-                    "title1": "This is a PVE server so treat each other with respect.",
-                    "text1": "<TextStyle.Green>Keyboard shortcuts</>\n ● F1 WBUI INFO\n ● F3 VOTE\n ● F4 REPORT\n ● F6 RATE COMMUNITY\n\nConsole players can find <TextStyle.Green>function keys</> by holding <TextStyle.Green>X</> on Xbox or holding <TextStyle.Green>□</> on PS.\n\nFor voting for the server you will receive 200 tokens, more for Supporter Tiers. Remember to use <TextStyle.Green>!Claim</> on <TextStyle.Green>#bot-spam</> discord channel after voting.\n\n<TextStyle.Green>Decay settings:</>\n ● Thatch - 4 Days  \n ● Wood - 8 Days  \n ● Stone - 12 Days  \n ● Metal - 16 Days  \n ● Creatures - 8 Days  \n\nTo fully benefit from the possibility of collecting <TextStyle.Green>Tokens</>, each new player should connect in-game character with a website account. After <TextStyle.Green>connecting your accounts</>, tokens received for voting, time spent in the game and those received as part of supporter tiers will be automatically assigned to your account.\n\nIf you have any questions, please visit discord.",
-                    "imageurl": "https://i.imgur.com/S1H6Pgo.png"
-                }
+                "layout": 1,
+                "buttontext": "Important Info",
+                "imageurl": "https://i.imgur.com/S1H6Pgo.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Green>This is a PVE server so treat each other with respect.</>",
+                        "text": "<TextStyle.Green>Keyboard shortcuts</>\r\n ● F1 WBUI INFO\r\n ● F3 VOTE\r\n ● F4 REPORT\r\n ● F6 RATE COMMUNITY\r\n\r\nConsole players can find <TextStyle.Green>function keys</> by holding <TextStyle.Green>X</> on Xbox or holding <TextStyle.Green>□</> on PS.\r\n\r\nFor voting for the server you will receive 200 tokens, more for Supporter Tiers. Remember to use <TextStyle.Green>!Claim</> on <TextStyle.Green>#bot-spam</> discord channel after voting.\r\n\r\n<TextStyle.Green>Decay settings:</>\r\n ● Thatch - 4 Days  \r\n ● Wood - 8 Days  \r\n ● Stone - 12 Days  \r\n ● Metal - 16 Days  \r\n ● Creatures - 8 Days  \r\n\r\nTo fully benefit from the possibility of collecting <TextStyle.Green>Tokens</>, each new player should connect in-game character with a website account. After <TextStyle.Green>connecting your accounts</>, tokens received for voting, time spent in the game and those received as part of supporter tiers will be automatically assigned to your account.\r\n\r\nIf you have any questions, please visit discord."
+                    }
+                ]
             },
             {
-                "tab3": {
-                    "layout": 1,
-                    "buttontext": "Server Rules",
-                    "title1": "These are the rules for this community:",
-                    "text1": "<TextStyle.Red>Insta-ban will be given for:</>\n ● Any form of racism, homophobic or trash talk.\n ● Any form of hacking / cheating / exploiting.\n\n<TextStyle.Red>Rules:</>\n ● Keep the game enjoyable for others. Remind your fellow survivors about this.\n ● Help your fellow survivors!\n ● Don't block access to public places with buildings, turrets, or dinos. Public places include: important resource spots (i.e. the vulcano), Spawn points, Obelisks, and Artifact caves. Drops and Explorer notes are NOT protected spaces. If in doubt, it is probably protected.\n ● Clean up after yourself.\n ● No mass land grab.\n ● No Pillar/foundation spamming.\n ● No massive bases (use common sense).\n ● Only 1 Tribe base and 1 Personal outpost is allowed.\n ● No player killing: Players cannot engage in PVP (Player versus Player) combat. This means that players cannot kill or attack other players, their structures, or their tamed creatures.\n ● No griefing: Players should not engage in any behavior that intentionally ruins another player's experience, such as building structures that block access to resources, building structures that damage another player's structures, or trapping other players with their tamed creatures.\n ● No stealing: Players cannot take resources, items, or creatures from other players without their permission.\n ● Respect other players' bases: Players should not enter other players' bases without their permission. Players should also not build their structures too close to another player's base, as this can cause issues with resource spawns or creature spawns.\n ● No excessive breeding: While breeding creatures is allowed, players should not breed excessively to prevent overcrowding of the server.\n ● It is forbidden to beg for help from other players, if someone wants to help you, he will offer it himself.",
-                    "imageurl": "https://i.imgur.com/S1H6Pgo.png"
-                }
+                "layout": 1,
+                "buttontext": "Server Rules",
+                "imageurl": "https://i.imgur.com/S1H6Pgo.png",
+                "content": [
+                    {
+                        "title": "<TextStyle.Red>These are the rules for this community</>",
+                        "text": "<TextStyle.Red>Insta-ban will be given for:</>\r\n ● Any form of racism, homophobic or trash talk.\r\n ● Any form of hacking / cheating / exploiting.\r\n\r\n<TextStyle.Red>Rules:</>\r\n ● Keep the game enjoyable for others. Remind your fellow survivors about this.\r\n ● Help your fellow survivors!\r\n ● Don't block access to public places with buildings, turrets, or dinos. Public places include: important resource spots (i.e. the vulcano), Spawn points, Obelisks, and Artifact caves. Drops and Explorer notes are NOT protected spaces. If in doubt, it is probably protected.\r\n ● Clean up after yourself.\r\n ● No mass land grab.\r\n ● No Pillar/foundation spamming.\r\n ● No massive bases (use common sense).\r\n ● Only 1 Tribe base and 1 Personal outpost is allowed.\r\n ● No player killing: Players cannot engage in PVP (Player versus Player) combat. This means that players cannot kill or attack other players, their structures, or their tamed creatures.\r\n ● No griefing: Players should not engage in any behavior that intentionally ruins another player's experience, such as building structures that block access to resources, building structures that damage another player's structures, or trapping other players with their tamed creatures.\r\n ● No stealing: Players cannot take resources, items, or creatures from other players without their permission.\r\n ● Respect other players' bases: Players should not enter other players' bases without their permission. Players should also not build their structures too close to another player's base, as this can cause issues with resource spawns or creature spawns.\r\n ● No excessive breeding: While breeding creatures is allowed, players should not breed excessively to prevent overcrowding of the server.\r\n ● It is forbidden to beg for help from other players, if someone wants to help you, he will offer it himself."
+                    }
+                ]
+            },
+            {
+                "layout": 1,
+                "buttontext": "New Tab",
+                "imageurl": "",
+                "content": [
+                    {
+                        "title": "New Title",
+                        "text": "New Text"
+                    }
+                ]
             }
         ],
         "links": [
             {
-                "link1": {
-                    "text": "Discord",
-                    "url": "https://discord.gg/survival-games-servers-966369584724709446"
-                }
+                "text": "Discord",
+                "url": "https://discord.gg/survival-games-servers-966369584724709446"
             },
             {
-                "link2": {
-                    "text": "Website",
-                    "url": "https://sgservers.eu"
-                }
+                "text": "Website",
+                "url": "https://barliona.online/"
             },
             {
-                "link3": {
-                    "text": "Shop",
-                    "url": "https://sgservers.eu/shop"
-                }
+                "text": "Shop",
+                "url": "https://barliona.online/shop"
             },
             {
-                "link4": {
-                    "text": "Connect account",
-                    "url": "https://sgservers.eu/page/82327-connect"
-                }
+                "text": "Connect account",
+                "url": "https://barliona.online/page/82327-connect"
             }
-        ]
+        ],
+        "version": 0
     }
 }
