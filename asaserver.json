@@ -20,7 +20,7 @@
                 "content": [
                     {
                         "title": "First of all, have a great time!",
-                        "text": "\r\nWe are excited to have you join us on this epic journey through a world filled with danger and adventure. In this world, you will need to gather resources, craft items, and build shelters to survive against the various challenges that you will face.\r\n\r\nAs you explore the beautiful and diverse environments of Ark, you will encounter a variety of different creatures, both friendly and hostile. You will need to use your skills and wits to tame, train, and ride these creatures, using them to help you in your journey.\r\n\r\n\r\nOur server is home to a thriving community of players who are always eager to help new players. Be sure to join us in our Discord server to stay up to date on all the latest news and events.\r\n\r\n\r\n<TextStyle.Green>What you can expect from our Community</>\r\n ● always available, up-to-date servers with the highest quality hardware,\r\n ● the most interesting mods,\r\n ● balanced settings, although we also have servers with crazy ones sometimes,\r\n ● support from admin, community helpers and players,\r\n ● no toxic behavior,\r\n ● influence on server development thanks to suggestion channels and regular surveys,\r\n ● and a lot more.\r\n\r\n\r\nThank you for choosing to play on our Ark Survival server. We hope you have a fun and rewarding experience with us!\r\n<TextStyle.Green>Have Fun</>"
+                        "text": "\r\n<TextStyle.Green>We’re thrilled</> to have you join us on this epic adventure through a world full of danger and excitement.\r\nIn Ark, you’ll gather resources, craft items, and build shelters to survive the many challenges that await.\r\n\r\nAs you explore the beautiful and diverse environments of Ark, you’ll encounter all sorts of creatures—some friendly, some hostile.\r\nYou’ll need your skills and wits to tame, train, and ride these amazing beings, turning them into valuable allies on your journey.\r\n\r\nOur server is home to a welcoming, active community that’s always happy to help new players.\r\nBe sure to join our Discord server to stay up to date on the latest news, events, and server updates.\r\n\r\n<TextStyle.Green>What you can expect from our community</>\r\n● Reliable, always-online servers with top-quality hardware\r\n● The most interesting and unique mods\r\n● Balanced settings (with the occasional crazy server for fun!)\r\n● Support from admins, community helpers, and fellow players\r\n● A strictly non-toxic environment\r\n● Real influence on server development through suggestion channels and regular polls\r\n● And much more!\r\n\r\n\r\nThank you for choosing to play on our Ark Survival server. We hope you have an amazing and rewarding experience with us!\r\n<TextStyle.Green>Have fun!</>"
                     }
                 ]
             },
@@ -30,8 +30,8 @@
                 "imageurl": "https://i.imgur.com/S1H6Pgo.png",
                 "content": [
                     {
-                        "title": "<TextStyle.Green>This is a PVE server so treat each other with respect.</>",
-                        "text": "<TextStyle.Green>Keyboard shortcuts</>\r\n ● F1 WBUI INFO\r\n ● F3 VOTE\r\n ● F4 REPORT\r\n ● F6 RATE COMMUNITY\r\n\r\nConsole players can find <TextStyle.Green>function keys</> by holding <TextStyle.Green>X</> on Xbox or holding <TextStyle.Green>□</> on PS.\r\n\r\nFor voting for the server you will receive 200 tokens, more for Supporter Tiers. Remember to use <TextStyle.Green>!Claim</> on <TextStyle.Green>#bot-spam</> discord channel after voting.\r\n\r\n<TextStyle.Green>Decay settings:</>\r\n ● Thatch - 4 Days  \r\n ● Wood - 8 Days  \r\n ● Stone - 12 Days  \r\n ● Metal - 16 Days  \r\n ● Creatures - 8 Days  \r\n\r\nTo fully benefit from the possibility of collecting <TextStyle.Green>Tokens</>, each new player should connect in-game character with a website account. After <TextStyle.Green>connecting your accounts</>, tokens received for voting, time spent in the game and those received as part of supporter tiers will be automatically assigned to your account.\r\n\r\nIf you have any questions, please visit discord."
+                        "title": "This is a PVE server so treat each other with respect.",
+                        "text": "<TextStyle.Green>Keyboard shortcuts</>\r\n● F1 – WBUI INFO\r\n● F3 – VOTE\r\n● F4 – REPORT\r\n● F6 – RATE COMMUNITY\r\n\r\nConsole players can access <TextStyle.Green>function keys</> by holding <TextStyle.Green>X</> on Xbox or holding <TextStyle.Green>□</> on PlayStation.\r\n\r\nWhen you vote for the server, you’ll receive 200 tokens—and even more if you’re a Supporter!\r\nRemember to use <TextStyle.Green>!Claim</> in the <TextStyle.Green>#bot-spam</> Discord channel after voting.\r\n\r\n<TextStyle.Green>Decay settings:</>\r\n● Thatch – 4 days\r\n● Wood – 8 days\r\n● Stone – 12 days\r\n● Metal – 16 days\r\n● Creatures – 8 days\r\n\r\nTo fully benefit from collecting <TextStyle.Green>tokens</>, every new player should link their in-game character with their website account.\r\nAfter <TextStyle.Green>connecting your accounts</>, all tokens earned for voting, time spent in-game, and Supporter rewards will be automatically assigned to your account.\r\n\r\nIf you have any questions, please visit our Discord!"
                     }
                 ]
             },
@@ -41,19 +41,8 @@
                 "imageurl": "https://i.imgur.com/S1H6Pgo.png",
                 "content": [
                     {
-                        "title": "<TextStyle.Red>These are the rules for this community</>",
-                        "text": "<TextStyle.Red>Insta-ban will be given for:</>\r\n ● Any form of racism, homophobic or trash talk.\r\n ● Any form of hacking / cheating / exploiting.\r\n\r\n<TextStyle.Red>Rules:</>\r\n ● Keep the game enjoyable for others. Remind your fellow survivors about this.\r\n ● Help your fellow survivors!\r\n ● Don't block access to public places with buildings, turrets, or dinos. Public places include: important resource spots (i.e. the vulcano), Spawn points, Obelisks, and Artifact caves. Drops and Explorer notes are NOT protected spaces. If in doubt, it is probably protected.\r\n ● Clean up after yourself.\r\n ● No mass land grab.\r\n ● No Pillar/foundation spamming.\r\n ● No massive bases (use common sense).\r\n ● Only 1 Tribe base and 1 Personal outpost is allowed.\r\n ● No player killing: Players cannot engage in PVP (Player versus Player) combat. This means that players cannot kill or attack other players, their structures, or their tamed creatures.\r\n ● No griefing: Players should not engage in any behavior that intentionally ruins another player's experience, such as building structures that block access to resources, building structures that damage another player's structures, or trapping other players with their tamed creatures.\r\n ● No stealing: Players cannot take resources, items, or creatures from other players without their permission.\r\n ● Respect other players' bases: Players should not enter other players' bases without their permission. Players should also not build their structures too close to another player's base, as this can cause issues with resource spawns or creature spawns.\r\n ● No excessive breeding: While breeding creatures is allowed, players should not breed excessively to prevent overcrowding of the server.\r\n ● It is forbidden to beg for help from other players, if someone wants to help you, he will offer it himself."
-                    }
-                ]
-            },
-            {
-                "layout": 1,
-                "buttontext": "New Tab",
-                "imageurl": "",
-                "content": [
-                    {
-                        "title": "New Title",
-                        "text": "New Text"
+                        "title": "These are the rules for this community:",
+                        "text": "<TextStyle.Red>Insta-ban will be given for:</>\r\n● Any form of racism, homophobia, or toxic trash talk.\r\n● Any form of hacking, cheating, or exploiting.\r\n\r\n<TextStyle.Red>Rules:</>\r\n● Keep the game enjoyable for everyone—remind your fellow survivors if needed!\r\n● Help your fellow survivors!\r\n● Don’t block access to public places with buildings, turrets, or dinos. Public places include important resource spots (e.g. the volcano), spawn points, obelisks, and artifact caves. Drops and explorer notes are NOT protected spaces. If you’re unsure, treat the area as protected.\r\n● Clean up after yourself.\r\n● No mass land grabs.\r\n● No pillar or foundation spamming.\r\n● No massive bases—use common sense!\r\n● Only 1 tribe base and 1 personal outpost per player is allowed.\r\n● No player killing: PVP (player versus player) combat is not allowed. Do not attack or kill other players, their structures, or their tamed creatures.\r\n● No griefing: Do not engage in any behavior that intentionally ruins another player's experience, such as blocking access to resources, damaging other players' structures, or trapping players with tamed creatures.\r\n● No stealing: Do not take resources, items, or creatures from others without permission.\r\n● Respect other players' bases: Do not enter someone else's base without permission, and don’t build too close to another player’s base as it can interfere with resource and creature spawns.\r\n● No excessive breeding: While breeding is allowed, please don’t breed excessively to prevent overcrowding the server.\r\n● Do not beg for help from other players—if someone wants to help, they’ll offer."
                     }
                 ]
             }
@@ -65,7 +54,7 @@
             },
             {
                 "text": "Website",
-                "url": "https://barliona.online/"
+                "url": "https://barliona.online/page/64046-home"
             },
             {
                 "text": "Shop",
